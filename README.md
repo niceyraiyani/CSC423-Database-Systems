@@ -6,7 +6,7 @@ The **Pawsome Pets Database** is a relational database designed to manage inform
 
 ## Project Details
 
-This project was developed as part of a course on **Database Systems**. It involves the design, development, and implementation of a relational database using SQLite and Python. The project includes conceptual and logical modeling, SQL schema creation, data insertion, and the implementation of various user transactions.
+This project was developed as part of a course on **Database Systems** : CSC423. It involves the design, development, and implementation of a relational database using SQLite and Python. The project includes conceptual and logical modeling, SQL schema creation, data insertion, and the implementation of various user transactions.
 
 ---
 
